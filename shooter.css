@@ -1,0 +1,39 @@
+
+body {background-image:url(
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6sCyGEdXcmhQhQd0In3Ibyh6jVds2tb_jBFLvoZrOgnco3ZSq
+);
+height:415px;
+
+
+ 
+  
+}
+
+#timer_id{
+    color:red;
+    font-size: 40;
+    align:right;
+    
+}
+#button{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQovn4vKXZh8bVxCkhDfUJx3wsgnrLKGp-6jnhGhVZlgsRhgyeH
+      
+        );
+    height:160px;
+    width:160px;
+    border-color:transparent ;
+    margin-top:100px;
+    
+}
+#player{
+    display:none;
+}
+#score_id{
+
+}
+#win{
+    display:none;
+}
+#marquee{
+    display:none;;
+}
