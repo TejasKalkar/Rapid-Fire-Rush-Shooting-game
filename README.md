@@ -32,9 +32,9 @@ To play "Rapid Fire Rush," follow these steps:
 ## How to Play
 1. Open the game in a web browser.
 2. The game starts automatically with a 10-second countdown.
-3. Click the moving target (button) to score a hit.
+3. Click the moving enemy to score a hit.
 4. Each hit decreases your health points by 1.
-5. You have 6 bullets to hit the target. Each click (hit or miss) uses up one bullet.
+5. You have 6 bullets to hit the enemy. Each click (hit or miss) uses up one bullet.
 6. The game ends when:
    - You hit the target 5 times (You Win).
    - You run out of bullets (You Lose).
